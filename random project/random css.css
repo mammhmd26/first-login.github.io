@@ -1,0 +1,50 @@
+body {
+	background-image: url(snow.jpg);
+	color:skyblue;
+	font-family: 'Yomogi', cursive;
+}
+
+.login{
+	color:rgb(118, 186, 212)
+}
+
+.email {
+	background: white;
+	padding:4px;
+	border-radius: 7px;
+}
+
+.email:hover{
+	background:rgb(204, 200, 200);
+}
+
+.password {
+	background: white;
+	padding:4px;
+	border-radius: 7px;
+}
+
+.password:hover{
+	background:rgb(204, 200, 200);
+}
+
+
+.birthday {
+	background: white;
+	padding:4px;
+	border-radius: 7px;
+}
+
+.birthday:hover{
+	background:rgb(204, 200, 200);
+}
+
+.button {
+	background: white;
+	padding:7px;
+	border-radius: 7px;
+}
+
+.button:hover{
+	background:rgb(204, 200, 200);
+}
